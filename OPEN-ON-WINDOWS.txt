@@ -1,0 +1,10 @@
+LAW OFFICE WEBSITE — WINDOWS
+
+1. Extract the ZIP file to a folder. Do not run the launcher from inside the ZIP preview.
+2. Double-click start-local-site.cmd.
+3. Your browser should open http://localhost:4173/ automatically.
+4. Leave the command window open while viewing the site. Press Ctrl+C to stop it.
+
+The launcher uses Python if it is installed on your Windows PC. If Python is not installed, you can still double-click dist\index.html to view this static website without a server.
+
+The address http://localhost:4173/ works only on the PC running the launcher. It does not publish the website on the internet.
